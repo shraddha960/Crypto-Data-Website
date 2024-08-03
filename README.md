@@ -8,8 +8,9 @@ task was to create a mini-website to collect and display real-time price data to
 
 ### Installation
 
-1) create react app: npx create-react-app 
+1) first git clone : https://github.com/shraddha960/Crypto-Data-Website.git
 
+2) Do npm install
 
 ### `npm start` for frontend
 
@@ -18,4 +19,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 ### `nodemon index.js` for Backend
+
+go into backend folder path using cd and then run this command 
+
 
